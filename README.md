@@ -5,6 +5,6 @@ This is the source *very* simple bot, put together by [Cheap Bots, Toot Sweet](h
 
 The bot is located at [@rickross@botsin.space](https://botsin.space/@rickross)
 
-And all the `json` which runs the bot is located in [tracery.json](/tracery.json)
+And all the code which actually runs the bot is located in [tracery.json](/tracery.json)
 
 Thanks for stopping by.
